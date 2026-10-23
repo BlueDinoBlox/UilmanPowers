@@ -1,0 +1,1 @@
+Updated requested version to Paper 26.3 and Java 25. This environment has Java 21, no Gradle, and cannot reach Paper Maven; the 26.3.build.+ dependency coordinate is UNVERIFIED and may need adjustment to the actual published Paper API version. This is SOURCE, not a compiled jar.

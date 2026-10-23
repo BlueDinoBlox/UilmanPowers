@@ -1,0 +1,9 @@
+name: UilmanPowers
+version: '1.0.0'
+main: com.uilman.powers.UilmanPowers
+api-version: '26.3'
+description: Console-controlled grab, fly and throw abilities.
+commands:
+  uilman:
+    description: Console-only ability administration.
+    usage: /uilman <give|remove|list> [player]
